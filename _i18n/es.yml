@@ -1,0 +1,4 @@
+messages:
+  empty: Parece que no tenemos artículos en esta categoría. Por favor, vuelve a la <a href="/">home</a> para ver la lista completa de artículos.
+  error:
+    not_found: ¡Ups! No hemos encontrado la página que has solicitado :(

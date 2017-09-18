@@ -1,0 +1,4 @@
+messages:
+  empty: Looks like we don't have any posts in this category. Please return to the  <a href="/en">homepage</a> to see the complete list of posts.
+  error:
+    not_found: Whoops! We couldn't find the page you requested :(

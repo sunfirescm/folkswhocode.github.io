@@ -19,8 +19,7 @@ category: blog
 
   {% if empty_category %}
     <li class="empty-post-list">
-      Parece que no tenemos artículos en esta categoría. Por favor, vuelve a
-      la <a href="/">home</a> para ver la lista completa de artículos.
+      {% t messages.empty %}
     </li>
   {% endif %}
 </ul>

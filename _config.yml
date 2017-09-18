@@ -20,3 +20,9 @@ exclude: ["README.md"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+gems: 
+  - jekyll-multiple-languages-plugin
+
+languages: ["es", "en"]
+exclude_from_localizations: ["javascript", "images", "css"]
